@@ -2,4 +2,5 @@
 
 
 
-![P5.JS Saucer and Cows](assets.cow.gif)
+![P5.JS Saucer and Cows](assets/cow.gif)
+
